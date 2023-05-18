@@ -1,4 +1,5 @@
 .contenedor{
+    overflow: hidden;
     
     height: 56rem;
     width: 25.9rem;
