@@ -1,8 +1,14 @@
-html,body{
-    max-width: 896px;
+*{
     margin: 0;
     padding: 0;
+
+}
+
+html,body{
+    max-width: 896px;
+    margin: auto;
     
+
     font-family: 'Lora', serif;
     font-family: 'Oswald', sans-serif;
     font-family: 'Poppins', sans-serif;
