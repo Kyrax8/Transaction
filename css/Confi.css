@@ -1,15 +1,12 @@
 *{
     margin: 0;
     padding: 0;
-
-    
-    
-
 }
 
 html,body{
     
-    
+    max-width: 896px;
+    max-height: 414px;
     margin: auto;
     
 
@@ -17,8 +14,4 @@ html,body{
     font-family: 'Oswald', sans-serif;
     font-family: 'Poppins', sans-serif;
     
-}
-@media (max-width: 896px) {
-}
-@media (min-width: 414px) {
 }
